@@ -1,0 +1,16 @@
+Key Features Added:
+Skills Section:
+
+A progress bar to visually display skill levels.
+Projects Grid:
+
+Improved layout using CSS Grid for responsive design.
+Testimonials Carousel:
+
+Horizontal scrolling testimonials.
+Contact Form:
+
+Functional form with input fields and a button.
+Styling Enhancements:
+
+Used gradients, hover effects, and transitions.
