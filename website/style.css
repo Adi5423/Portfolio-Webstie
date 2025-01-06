@@ -148,3 +148,29 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+/* Profiles Section */
+#profiles {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 2rem;
+}
+
+.profile-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.profile-links .btn {
+    padding: 0.5rem 2rem;
+    background: #6a11cb;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.profile-links .btn:hover {
+    background: #2575fc;
+}
